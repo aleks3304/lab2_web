@@ -1,0 +1,13 @@
+.parallax{
+	background-image: url("https://media.celebmagazine.com/brand-img/gKIEa0PwN/0x0/billboard-music-awards-return-2022-1-1652714093781.jpg");
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;											
+}
+.content{
+	height: 1300px;
+	background-color: whitesmoke;
+}
+
